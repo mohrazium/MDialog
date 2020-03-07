@@ -2,135 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="057c69f1-017e-4493-baf2-b331329c00c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mdialog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mhrz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mhrz.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mohraz/dev/jfx/mdialog/MDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mohraz/dev/jfx/mdialog/MDialogButtonType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialogButtonType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mohraz/dev/jfx/mdialog/MDialogMessageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialogMessageType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mohraz/dev/jfx/mdialog/MDialogMessageViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialogMessageViewController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mohraz/dev/jfx/mdialog/MDialogModalResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialogModalResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mohraz/dev/jfx/mdialog/MDialogResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialogResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-accounting-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-add-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-add-phone-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-add-user-group-man-man-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-add-user-male-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-address-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-agreement-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-badge-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-blinds-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-businessman-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-chevron-left-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-chevron-right-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-circled-user-male-skin-type-5-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-dashboard-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-delete-document-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-denied-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-edit-property-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-enter-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-exit-sign-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-eye-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-invisible-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-list-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-new-copy-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-people-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-plumbing-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-print-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-pull-down-48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-registration-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-rent-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-search-more-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-settings-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-user-group-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/icons/icons8-user-male-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/views/message_view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/views/message_view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog-javadoc.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog-javadoc.jar.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog-sources.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog-sources.jar.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog.jar.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog.pom" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog.pom" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MDialog.pom.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/MDialog.pom.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/MDialog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/MDialogButtonType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/MDialogMessageType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/MDialogMessageViewController.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/MDialogModalResult.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/MDialogResult.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/class-use/MDialog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/class-use/MDialogButtonType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/class-use/MDialogMessageType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/class-use/MDialogMessageViewController.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/class-use/MDialogModalResult.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/class-use/MDialogResult.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/mohraz/dev/jfx/mdialog/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/element-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/member-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/member-search-index.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-search-index.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/type-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/type-search-index.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-accounting-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-add-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-add-phone-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-add-user-group-man-man-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-add-user-male-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-address-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-agreement-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-badge-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-blinds-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-businessman-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-chevron-left-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-chevron-right-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-circled-user-male-skin-type-5-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-dashboard-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-delete-document-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-denied-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-edit-property-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-enter-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-exit-sign-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-eye-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-invisible-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-list-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-new-copy-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-people-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-plumbing-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-print-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-pull-down-48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-registration-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-rent-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-search-more-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-settings-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-user-group-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/assets/icons/icons8-user-male-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialogButtonType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialogMessageType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialogMessageViewController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialogMessageViewController$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialogMessageViewController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialogModalResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mohraz/dev/jfx/mdialog/MDialogResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/views/message_view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/message_view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -142,12 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="-3525">
+              <caret line="6" column="20" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="42" selection-start-column="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -221,7 +103,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="861" />
     <option name="y" value="65" />
     <option name="width" value="1616" />
@@ -241,6 +123,32 @@
               <item name="MDialog" type="b2602c69:ProjectViewProjectNode" />
               <item name="MDialog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MDialog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDialog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MDialog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDialog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MDialog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDialog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MDialog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDialog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mdialog" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +162,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583422864288" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583433706036" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -323,17 +231,17 @@
       <option name="presentableId" value="Default" />
       <updated>1583333574185</updated>
       <workItem from="1583333578953" duration="5649000" />
-      <workItem from="1583400363020" duration="11930000" />
+      <workItem from="1583400363020" duration="14764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20837000" />
+    <option name="totallyTimeSpent" value="23671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="3" width="1922" height="1078" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -348,7 +256,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" auto_hide="true" x="1006" y="141" width="865" height="890" id="Terminal" order="7" visible="true" weight="0.6655702" />
+      <window_info anchor="bottom" auto_hide="true" x="1006" y="141" width="865" height="890" id="Terminal" order="7" weight="0.6655702" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Statistic" order="10" />
@@ -499,21 +407,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml.versionsBackup">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="-3525">
+          <caret line="6" column="20" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/mohrazzr/dev/jfx/mdialog/MDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
