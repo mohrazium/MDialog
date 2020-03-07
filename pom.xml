@@ -9,7 +9,9 @@
 
     <packaging>jar</packaging>
     <name>MDialog</name>
-    <description>MDialog uses JavaFX framework and JFoneix libs to show custom looks message boxes in JavaFX application.</description>
+    <description>MDialog uses JavaFX framework and JFoneix libs to show custom looks message boxes in JavaFX
+        application.
+    </description>
     <url>https://github.com/mohrazzr/MDialog</url>
 
     <developers>
@@ -39,7 +41,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <slf4j.version>1.7.12</slf4j.version>
-        <log4j.version>1.2.17</log4j.version>
         <commons-lang.version>2.6</commons-lang.version>
         <jfoenix.version>9.0.9</jfoenix.version>
         <controlsfx.version>11.0.0</controlsfx.version>
@@ -148,11 +149,6 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>${slf4j.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>${log4j.version}</version>
         </dependency>
         <dependency>
             <groupId>com.jfoenix</groupId>
